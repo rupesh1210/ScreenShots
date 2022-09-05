@@ -1,1 +1,2 @@
 https://devconnected.com/how-to-delete-file-on-git/
+https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
