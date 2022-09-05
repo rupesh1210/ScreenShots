@@ -7,3 +7,21 @@ Assignment 8
 2.
 3.
 done changes
+======================================================================
+assignment 8
+https://codetej.in/7-git-diff-comparing-staging-area-working-directory-and-previous-commit/
+https://blog.naver.com/nomadgee/221429715586
+
+working directory vs staging area = "git diff"
+Working directory vs local Repository = ""
+Staging area vs local repsitory = "git diff --staged"
+Between two commits = "git diff <commit-id> <commit-id>"
+Between two tags = "git diff tag1 tag2"
+https://codeutility.org/how-to-compare-two-tags-with-git-stack-overflow/
+
+
+local vs remote repository = "git diff <local-branch-name> <remote-branch-name>"
+https://www.w3docs.com/snippets/git/how-to-compare-local-and-remote-branches.html
+
+master branch vs test branch = "git diff develop master"
+https://www.techiedelight.com/compare-two-branches-git/
