@@ -2,11 +2,11 @@ https://devconnected.com/how-to-delete-file-on-git/
 https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 https://www.w3docs.com/snippets/git/how-to-unstage-a-deleted-file-in-git.html
 
-Assignment 8
+Assignment 6
 1. https://www.freecodecamp.org/news/git-diff-command/
 2.
 3.
-done changes
+
 ======================================================================
 assignment 8
 https://codetej.in/7-git-diff-comparing-staging-area-working-directory-and-previous-commit/
